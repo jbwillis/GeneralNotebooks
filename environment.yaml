@@ -1,0 +1,10 @@
+dependencies:
+    - matplotlib
+    - numpy
+    - pip
+    - control
+    - scipy
+    - sympy
+    - pip:
+        - julia
+
